@@ -87,6 +87,7 @@ body {
   font-size: 11pt;
 }
 .mark {
+  background-color: #e2e2e2;
   border-bottom-style: solid;
 }
 .body {
